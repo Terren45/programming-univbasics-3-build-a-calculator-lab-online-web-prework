@@ -1,23 +1,24 @@
-def addition(num1, num2)
-
+def addition(5, 4)
+ puts "sum = #{5} + #{4}"
 end
 
-def subtraction(num1, num2)
-
+def subtraction(5, 4)
+ puts "sum = #{5} - #{4}"
 end
 
-def division(num1, num2)
-
+def division(6, 3)
+ puts "sum = #{6} / #{3}"
 end
 
-def multiplication(num1, num2)
+def multiplication(5, 4)
+ puts "sum = #{5} * #{4}"
+end 
 
+def modulo(6, 2)
+ puts "sum = #{6} ** #{2}"
 end
 
-def modulo(num1, num2)
-
+def square_root(9)
+ puts "sum = #{9}"
 end
 
-def square_root(num)
-
-end
