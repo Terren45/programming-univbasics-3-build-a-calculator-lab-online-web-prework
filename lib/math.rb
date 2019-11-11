@@ -1,4 +1,4 @@
-def addition(num1, num2)
+def addition(6, num2(6))
  puts "sum = #{num1} + #{num2}"
 end
 
