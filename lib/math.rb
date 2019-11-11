@@ -1,5 +1,5 @@
-def addition(6, num2(6))
- puts "sum = #{num1} + #{num2}"
+def addition(num2, num1)
+ puts "sum = #{num2} + #{num1}"
 end
 
 def subtraction(num1, num2)
